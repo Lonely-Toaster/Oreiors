@@ -20,7 +20,7 @@ Getting Started
 1. Install the GitHub client for [Windows] (https://windows.github.com/) or [Mac] (https://mac.github.com/)
 2. Install Unreal 4
 3. Open the GitHub client
-4. Clone this repository from "Inebriated Squirrel" (Right click to "Clone to..." a different directory)
+4. Clone this repository from "Lonely Toaster" (Right click to "Clone to..." a different directory)
 5. Navigate to the directory on your computer where it was cloned
 6. Proceed to the correct Compiling and Building section
 
@@ -36,7 +36,7 @@ Compiling and Building (Windows)
 4. Open the generated .sln file in Visual Studio 2013
 5. Wait for Visual Studio to generate required files
 6. Ensure that your solution configuration is Development - Windows
-7. Hit F7 or right click on "Seagull Game" in the Solution Explorer and click "Build"
+7. Hit F7 or right click on "Oreiors" in the Solution Explorer and click "Build"
 8. Wait for building to finish
 9. You can now open the .uproject file in the Unreal Editor
 
@@ -47,8 +47,8 @@ Compiling and Building (Mac)
 3. Select "Generate Xcode project file"
 4. Open the generated .xcodeproj file in Xcode 5
 5. Wait for the project to open
-6. On the top toolbar, ensure that SeagullGameEditor - Mac > My Mac 64 bit is selected as the active scheme
-7. Navigate to Project > Build For > Profiling
+6. On the top toolbar, ensure that ASK IN CLASS > My Mac 64 bit is selected as the active scheme
+7. Navigate to Project/Product > Build For > Profiling
 8. Wait for building to finish
 9. You can now open the .uproject file in the Unreal Editor
 
